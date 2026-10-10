@@ -1,0 +1,9 @@
+{
+  "client_id": "https://trabapro.github.io/oauth-client-metadata/devin-elevenlabs.json",
+  "client_name": "Devin (Traba)",
+  "client_uri": "https://app.devin.ai",
+  "redirect_uris": ["https://api.devin.ai/mcp/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
