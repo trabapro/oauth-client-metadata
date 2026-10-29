@@ -1,0 +1,9 @@
+{
+  "client_id": "https://trabapro.github.io/oauth-client-metadata/claude-code-elevenlabs.json",
+  "client_name": "Claude Code (Traba)",
+  "client_uri": "https://claude.com/claude-code",
+  "redirect_uris": ["http://localhost:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
